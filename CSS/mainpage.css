@@ -147,7 +147,7 @@ body {
 	line-height: 50px;
 	padding: 0 20px;
 	transition : 0.4s;
-	font-weight: 700;/*толщина шрифта*/
+	font-weight: 700;
 	text-transform: uppercase;
 	}
 
@@ -247,8 +247,7 @@ tr {
 	font-size: 17px;
 	padding: 10px 20px 20px 20px;
 	margin-bottom: 20px;
-	width: 320px;
-	display: inline-block;
+	display: block;
 	margin-right: 20px;
 	min-width: 250px;
 	height: 350px;
@@ -266,7 +265,7 @@ tr {
 	line-height: 50px;
 	width: 180px;
 	transition: 0.4s;
-	font-weight: 700;/*толщина шрифта*/
+	font-weight: 700;
 	background-color: #1c1c1c;
 	border-radius: 25px;
 	border-color: rgb(161, 161, 161);
